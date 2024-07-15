@@ -5,5 +5,5 @@ Flutter
 
 Начинал делать верстку приложения рецепты еды
 
-[alttext](assets/food_recepe.png)
+![alttext](assets/food_recepe.png)
 
